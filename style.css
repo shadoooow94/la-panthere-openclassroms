@@ -797,11 +797,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C !important
+    color: #FADFD1 !important
 }
 
 .white {
-    color: white !important
+    color: #171717 !important
 }
 
 .text-center {
@@ -810,7 +810,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF !important
+    color: #0F0F0F !important
 }
 
 .btn-atomic-tangerine:hover {
