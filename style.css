@@ -799,11 +799,14 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF !important
+    color: #000000 !important
 }
 
 .text-center {
     text-align: center
+}
+.logoo{
+    color: #000000;
 }
 
 .btn-atomic-tangerine {
